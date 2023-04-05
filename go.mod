@@ -16,7 +16,7 @@ require (
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
 	github.com/pkg/errors v0.9.1
 	github.com/pterm/pterm v0.12.49
-	github.com/spf13/cobra v1.6.0
+	github.com/spf13/cobra v1.7.0
 	github.com/spf13/viper v1.13.0
 	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
@@ -47,7 +47,7 @@ require (
 	github.com/fatih/color v1.13.0 // indirect
 	github.com/fsnotify/fsnotify v1.5.4 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
-	github.com/inconshreveable/mousetrap v1.0.1 // indirect
+	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/magiconair/properties v1.8.6 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
